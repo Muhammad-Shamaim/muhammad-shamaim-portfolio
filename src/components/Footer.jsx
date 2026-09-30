@@ -6,7 +6,7 @@ function Footer() {
       </p>
 
       <p className="footer-tagline">
-        Built with React.js, JavaScript & CSS
+        Built with React.js, JavaScript & CSS • Deployed with Vercel
       </p>
     </footer>
   );
